@@ -21,7 +21,7 @@ export default function App() {
   // Pre-selection states for booking
   const [preselectedDoctor, setPreselectedDoctor] = useState(null);
   const [preselectedService, setPreselectedService] = useState(null);
-  const [prefilledNotes, setPrefilledNotes] = useState('');
+  const [prefilledNotes, setPrefilledNotes] = useState("");
 
   const handleNavigate = (sectionId) => {
     setActiveSection(sectionId);
