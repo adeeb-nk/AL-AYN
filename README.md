@@ -1,4 +1,4 @@
-# 👁️ Al Ayn Specialized Eye Hospital (مستشفى العين التخصصي للعيون)
+# 👁️ AL AYN Specialized Eye Hospital (مستشفى العين التخصصي للعيون)
 ### Full MERN Stack Web Application (MongoDB • Express • React • Node.js)
 
 A state-of-the-art web application for **Al Ayn Specialized Eye Hospital**, a premier tertiary ophthalmic center of excellence offering blade-free SMILE Pro & Femto-LASIK, micro-incision cataract surgery, vitreoretinal care, glaucoma laser therapy, pediatric squint rehabilitation, and 24/7 eye trauma emergency services.
